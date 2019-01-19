@@ -7,7 +7,7 @@ Trying to get into machine learning.
 Neural Net Structure
 Forward Propagation
 
-## What I need to implemet
+## What I need to implement
 
 Back Propagation ( a.k.a the actual machine learning part )
 
