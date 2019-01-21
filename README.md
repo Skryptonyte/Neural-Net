@@ -1,4 +1,4 @@
-[![Linux: ](https://ci.appveyor.com/api/projects/status/kgn0qjeo4hiiqmm2?svg=true)](https://ci.appveyor.com/project/Skryptonyte/neural-net)
+Linux :[![Linux: ](https://ci.appveyor.com/api/projects/status/kgn0qjeo4hiiqmm2?svg=true)](https://ci.appveyor.com/project/Skryptonyte/neural-net)
 
 # Basic FeedForward Neural Net
 
