@@ -1,4 +1,4 @@
-https://ci.appveyor.com/api/projects/status/github/neural-net
+!(Linux Build: )[https://ci.appveyor.com/api/projects/status/github/neural-net]
 
 
 # Basic FeedForward Neural Net
