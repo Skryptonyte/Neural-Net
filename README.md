@@ -1,4 +1,4 @@
-https://ci.appveyor.com/api/projects/status/github/Neural-Net
+https://ci.appveyor.com/api/projects/status/github/Neural-Net?branch=master&svg=true
 
 
 # Basic FeedForward Neural Net
