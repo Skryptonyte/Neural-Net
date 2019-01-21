@@ -1,3 +1,6 @@
+https://ci.appveyor.com/api/projects/status/github/Neural-Net
+
+
 # Basic FeedForward Neural Net
 
 Trying to get into machine learning. 
