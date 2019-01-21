@@ -1,4 +1,4 @@
-![Linux Build: ](https://ci.appveyor.com/api/projects/status/github/neural-net-linux)
+![Linux Build: ](https://ci.appveyor.com/api/projects/status/github/neural-net-inux)
 
 
 # Basic FeedForward Neural Net
